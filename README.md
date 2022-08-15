@@ -1,4 +1,4 @@
-# Finance App - Challenge 1 (Chapter 1) from Rockseat Ignite Course
+# Todo App - Challenge 1 (Chapter 1) from Rockseat Ignite Course
 
 * [About](#about)
 * [Installation](#installation)
